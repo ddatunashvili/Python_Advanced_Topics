@@ -2,20 +2,22 @@
 
 ## სარჩევი
 
-1. [აბსტრაქტული მეთოდები (`absmethod.py`)](#abstract-methods-absmethodpy)
-2. [სიკვდილის შემდეგ (`afterdeath.py`)](#after-death-afterdeathpy)
-3. [კლასის მეთოდები (`classmethod.py`)](#class-methods-classmethodpy)
-4. [ნაგულისხმევი პარამეტრები (`default_params.py`)](#default-parameters-default_paramspy)
-5. [მონაცემთა კლასიფიკაცია (`dataclasing.py`)](#dataclassing-dataclasingpy)
-6. [აღმწერები (`descriptoring.py`)](#descriptors-descriptoringpy)
-7. [ფუნქციის ქეშირება კლასებით (`func_class_cache.py`)](#function-caching-with-classes-func_class_cachepy)
-8. [Keep Alive (`keep_alive.py`)](#keep-alive-keep_alivepy)
-9. [მეტაკლასები (`metaclassing.py`)](#metaclasses-metaclassingpy)
-10. [პოლიდეკორატორები (`polydecor.py`)](#poly-decorators-polydecorpy)
-11. [პროტოკოლირება (`protocoling.py`)](#protocoling-protocolingpy)
-12. [reducer-ის ფუნქციები (`reducer.py`)](#reducer-functions-reducerpy)
-13. [სტატიკური მეთოდები (`statical.py`)](#static-methods-staticalpy)
-14. [Wrap დეკორატორები (`wrapdecor.py`)](#wrap-decorators-wrapdecorpy)
+| №  | თემა                              | ფაილი                                                      |
+|----|-----------------------------------|------------------------------------------------------------|
+| 1  | აბსტრაქტული მეთოდები              | [`absmethod.py`](#absmethod)           |
+| 2  | სიკვდილის შემდეგ                  | [`afterdeath.py`](#afterdeath)             |
+| 3  | კლასის მეთოდები                   | [`classmethod.py`](#classmethod)         |
+| 4  | ნაგულისხმევი პარამეტრები          | [`default_params.py`](#default_params) |
+| 5  | მონაცემთა კლასიფიკაცია             | [`dataclasing.py`](#dataclasing)           |
+| 6  | აღმწერები                          | [`descriptoring.py`](#descriptoring)       |
+| 7  | ფუნქციის ქეშირება კლასებით        | [`func_class_cache.py`](#func_class_cache) |
+| 8  | Keep Alive                         | [`keep_alive.py`](#keep_alive)             |
+| 9  | მეტაკლასები                         | [`metaclassing.py`](#metaclassing)         |
+| 10 | პოლიდეკორატორები                   | [`polydecor.py`](#polydecor)           |
+| 11 | პროტოკოლირება                      | [`protocoling.py`](#polydecor)          |
+| 12 | reducer-ის ფუნქციები              | [`reducer.py`](#reducer)             |
+| 13 | სტატიკური მეთოდები                | [`statical.py`](#statical)              |
+| 14 | Wrap დეკორატორები                 | [`wrapdecor.py`](#statical)           |
 
 ## აბსტრაქტული მეთოდები (`absmethod.py`)
 
