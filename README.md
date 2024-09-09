@@ -16,7 +16,6 @@
 12. [reducer-ის ფუნქციები (`reducer.py`)](#reducer-functions-reducerpy)
 13. [სტატიკური მეთოდები (`statical.py`)](#static-methods-staticalpy)
 14. [Wrap დეკორატორები (`wrapdecor.py`)](#wrap-decorators-wrapdecorpy)
-15. [დოკუმენტაცია (`doc.txt`)](#documentation-doctxt)
 
 ## აბსტრაქტული მეთოდები (`absmethod.py`)
 
